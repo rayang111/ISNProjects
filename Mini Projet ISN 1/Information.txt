@@ -1,0 +1,1 @@
+Le lien vers index.html ne fonctionne pas car dans le projet de base, cette page était intégrée à un site web où chaque élève de notre classe a dû développer le portait d'une personnalité du numérique.

@@ -1,0 +1,233 @@
+*
+{
+    font-family: Arial;
+    font-size: 20px;
+    font-weight: normal;
+}
+
+body
+{
+	margin: 0;
+    width: 100%;
+    height: 100%;
+    color:white;
+    background-image: url(Ciel_etoile.jpg);
+	background-size: cover;
+}
+
+img#capture_du_jeu
+{
+	display: block;
+	margin: 0 auto;
+	border-style: ridge;
+	border-width: 3px;
+	border-color: #37FF00;
+	transition: transform .2s;
+	box-shadow: 0px 0px 10px #37FF00;
+}
+
+img#niveau_philosophie
+{
+	display: block;
+	margin: 0 auto;
+	border-style: ridge;
+	border-width: 3px;
+	border-color: #37FF00;
+	transition: transform .2s;
+	box-shadow: 0px 0px 10px #37FF00;
+}
+
+img#niveau_SVT
+{
+	display: block;
+	margin: 0 auto;
+	border-style: ridge;
+	border-width: 3px;
+	border-color: #37FF00;
+	transition: transform .2s;
+	box-shadow: 0px 0px 10px #37FF00;
+}
+
+img#niveau_maths
+{
+	display: block;
+	margin: 0 auto;
+	border-style: ridge;
+	border-width: 3px;
+	border-color: #37FF00;
+	transition: transform .2s;
+	box-shadow: 0px 0px 10px #37FF00;
+}
+
+img#niveau_histoire
+{
+	display: block;
+	margin: 0 auto;
+	border-style: ridge;
+	border-width: 3px;
+	border-color: #37FF00;
+	transition: transform .2s;
+	box-shadow: 0px 0px 10px #37FF00;
+}
+
+img#niveau_langues
+{
+	display: block;
+	margin: 0 auto;
+	border-style: ridge;
+	border-width: 3px;
+	border-color: #37FF00;
+	transition: transform .2s;
+	box-shadow: 0px 0px 10px #37FF00;
+}
+
+img#niveau_phys
+{
+	display: block;
+	margin: 0 auto;
+	border-style: ridge;
+	border-width: 3px;
+	border-color: #37FF00;
+	transition: transform .2s;
+	box-shadow: 0px 0px 10px #37FF00;
+}
+
+img#Telechargement_du_jeu
+{
+	margin: 0 auto;
+	border-style: ridge;
+	border-width: 3px;
+	border-color: #37FF00;
+	transition: transform .2s;
+	box-shadow: 0px 0px 10px #37FF00;
+}
+
+body, html
+{
+	margin: 0;
+    width: 100%;
+    height: 100%;
+}
+
+img#bg
+{
+	position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+	display: block;
+	margin: 0 auto;
+}
+
+img#Logo
+{
+
+}
+
+
+#fond
+{
+	position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+	display: block;
+	margin: 0 auto;
+}
+
+#conteneur 
+{
+	position : absolute;
+	top : 0;
+	left : -380px;
+	margin-left : 50%;
+	width : 760px;
+	  
+}
+
+p
+{
+    text-align: justify;
+	color:white;
+	text-shadow: 0px 0px 10px white;
+}
+
+h3
+{
+	color:yellow;
+	text-shadow: 0px 0px 5px white;
+}
+
+h2
+{
+	text-align: center;
+	color:yellow;
+	text-shadow: 0px 0px 5px white;
+}
+
+h1
+{
+    text-align: center;
+	color:yellow;
+	text-shadow: 0px 0px 5px white;
+}
+
+
+a:hover
+{
+	color: green;
+	color:#37FF00;
+}
+
+a
+{
+	color:#00FFE5;
+	
+}
+
+img#capture_du_jeu:hover
+{
+   transform: scale(1.5);
+}
+
+img#niveau_philosophie:hover
+{
+   transform: scale(1.5);
+}
+
+img#niveau_SVT:hover
+{
+   transform: scale(1.5);
+}
+
+img#niveau_maths:hover
+{
+   transform: scale(1.5);
+}
+
+img#niveau_histoire:hover
+{
+   transform: scale(1.5);
+}
+
+img#niveau_langues:hover
+{
+   transform: scale(1.5);
+}
+
+img#niveau_phys:hover
+{
+   transform: scale(1.5);
+}
+
+nav
+{
+	border: 5px solid green;
+	border-image: linear-gradient(green, black)30;
+	background-image: linear-gradient(green, black);
+	margin: 0;
+	padding: 10px;
+	box-shadow: 0px 0px 50px green;
+}

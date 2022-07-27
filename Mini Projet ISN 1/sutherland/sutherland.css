@@ -1,0 +1,91 @@
+body
+{
+    color:white;
+	background-image:url(bckg.jpg);
+
+}
+
+img 
+{ 
+	display: block; 
+	margin: 0 auto;
+	border-color: white;
+	border-width: 3px;
+	border-style: ridge;
+	box-shadow: 0px 0px 10px black;
+	transition: transform .2s;
+}
+
+h1
+{
+    text-align: center;
+	font-family:Century Gothic;
+	background-image: radial-gradient(circle at center, gray, white, gray);
+	border-color: white;
+	border-width: 3px;
+	border-style: ridge;
+	padding:10px;
+	box-shadow:0px 0px 10px black;
+	text-shadow:1px 1px 2px black;
+}
+
+h3
+{
+	float: left;
+	padding:25px;
+	font-family:Calibri;
+	text-shadow: 0px 0px 5px white;
+	font-size: 35px;
+}
+
+h5
+{
+    font-family:Arial;
+	font-size:14px;
+	text-align: justify;
+	background-color:gray;
+	margin-left: 275px;
+	border-color: white;
+	border-width: 3px;
+	border-style: ridge;
+	padding:25px;
+	box-shadow:0px 0px 10px black;
+	text-shadow: 1px 1px 5px black;
+}			
+
+a
+{
+	color:black;
+}
+
+
+p
+{
+	font-family: Arial;
+	text-align: right;
+	background-color:gray;
+	border-color: white;
+	border-width: 3px;
+	border-style: ridge;
+	padding:25px;
+	box-shadow:0px 0px 10px black;
+	text-shadow: 1px 1px 2px black;
+}
+
+h2
+{
+	font-family: Arial;
+	text-shadow: 0px 0px 6px white;
+}
+
+a:hover
+{
+	color:white;
+	text-shadow: 0px 0px 6px white;
+	
+}
+
+img:hover
+{
+   transform: scale(1.5);
+}
